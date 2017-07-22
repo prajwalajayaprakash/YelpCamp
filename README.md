@@ -1,3 +1,3 @@
 # YelpCamp
-A full stack (MEAN) development of a campgrounds information website
+A full stack (MEN) development of a campgrounds information website
 Version 1
